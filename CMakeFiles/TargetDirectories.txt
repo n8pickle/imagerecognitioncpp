@@ -1,0 +1,3 @@
+/home/n8pickle/code/imagerecognition/CMakeFiles/rebuild_cache.dir
+/home/n8pickle/code/imagerecognition/CMakeFiles/edit_cache.dir
+/home/n8pickle/code/imagerecognition/CMakeFiles/main.dir
